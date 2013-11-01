@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="catalogxslt.xsl"?> 
+<!--
+   Smart shopping project  
+ 
+
+   Filename:         pharmacy.xml
+   Supporting Files: home.xml,catalogcss.css, logoo.jpg.
+
+-->
+
+<catalog>
+    <group type="Pharmacy">
+   	  <product>
+         <pName>Equate Mutlivitamin</pName>
+         <cost cc="19.99" wc="21.99" sc="15.25" lc="15.25" hc="21.99"/>
+      </product>
+      <product>
+         <pName>Centrum Silver</pName>
+         <cost cc="26.99" wc="27.56" sc="27.12" lc="26.99" hc="27.56"/>
+      </product>
+      <product>
+         <pName>Naturemade C-vitamin</pName>
+         <cost cc="24.99" wc="24.98" sc="25.85" lc="24.98" hc="25.85"/>
+      </product>
+      <product>
+         <pName>Natrol Vitamin-B</pName>
+         <cost cc="85.99" wc="92.85" sc="95.25" lc="85.99" hc="95.25"/>
+      </product>
+      <product>
+         <pName>Advil cold caplets</pName>
+         <cost cc="23.99" wc="28.99" sc="29.56" lc="23.99" hc="29.56"/>
+      </product>
+      <product>
+         <pName>Afrin</pName>
+         <cost cc="35.99" wc="38.99" sc="33.99" lc="33.99" hc="38.99"/>
+      </product>
+      
+      <product>
+         <pName>Bayer aspirin</pName>
+         <cost cc="42.99" wc="45.99" sc="44.99" lc="42.99" hc="44.99"/>
+      </product>
+      <product>
+         <pName>Tylenol PM</pName>
+         <cost cc="15.99" wc="18.25" sc="16.80" lc="15.99" hc="18.25"/>
+      </product>
+      </group>
+      
+</catalog>

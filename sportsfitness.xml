@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="catalogxslt.xsl"?> 
+<!--
+  Smart shopping project    
+
+   Filename:         sportsfitnesss.xml
+   Supporting Files: home.xml,catalogcss.css, logoo.jpg.
+
+-->
+
+<catalog>
+    <group type="Sports and Fitness">
+   	  <product>
+         <pName>Nautilus</pName>
+         <cost cc="1119.99" wc="1250.99" sc="1120.99" lc="1119.99" hc="1250.99"/>
+      </product>
+      <product>
+         <pName>Schwin</pName>
+         <cost cc="1766.99" wc="1877.56" sc="1799.99" lc="1766.99" hc="1877.56"/>
+      </product>
+      <product>
+         <pName>Proform 510E</pName>
+         <cost cc="549.99" wc="504.99" sc="554.85" lc="504.99" hc="554.85"/>
+      </product>
+      <product>
+         <pName>Yukon 999</pName>
+         <cost cc="565.99" wc="598.85" sc="520.25" lc="520.25" hc="598.85"/>
+      </product>
+      <product>
+         <pName>Weslo G40</pName>
+         <cost cc="233.99" wc="280.99" sc="221.99" lc="221.99" hc="280.99"/>
+      </product>
+      <product>
+         <pName>Epic TL2200</pName>
+         <cost cc="305.99" wc="318.99" sc="303.99" lc="303.99" hc="318.99" />
+      </product>
+      <product>
+         <pName>Proform 795</pName>
+         <cost cc="420.99" wc="450.99" sc="410.99" lc="410.99" hc="450.99" />
+      </product>
+      <product>
+         <pName>Nautilus T514</pName>
+         <cost cc="375.99" wc="381.25" sc="385.99" lc="375.99" hc="385.99"/>
+      </product>
+   </group>
+</catalog>

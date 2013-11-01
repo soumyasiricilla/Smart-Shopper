@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="catalogxslt.xsl"?> 
+<!--
+   Smart shopping project   
+
+   Filename:         catalog.xml
+   Supporting Files: home.xml,catalogcss.css, logoo.jpg.
+
+-->
+
+<catalog>
+   <group type="Groceries">
+   	  <product>
+         <pName>Quaker Oats</pName>
+         <cost cc="19.99" wc="21.99" sc="19.90" lc="19.90" hc="21.99"/>
+      </product>
+      <product>
+         <pName>Kellog's Bar</pName>
+         <cost cc="16.99" wc="17.56" sc="17.50" lc="16.99" hc="17.56" />
+      </product>
+      <product>
+         <pName>Cheerios cereals</pName>
+         <cost cc="14.99" wc="15.69" sc="15.99" lc="14.99" hc="15.99" />
+      </product>
+      <product>
+         <pName>Kashi Straberry cereals</pName>
+         <cost cc="15.99" wc="15.85" sc="15.25" lc="15.25" hc="15.99" />
+      </product>
+      <product>
+         <pName>Lipton Tea</pName>
+         <cost cc="23.99" wc="28.99" sc="24.99" lc="23.99" hc="28.99"/>
+      </product>
+      <product>
+         <pName>Tazo Gen</pName>
+         <cost cc="35.99" wc="38.99" sc="33.99" lc="33.99" hc="38.99"/>
+      </product>
+      <product>
+         <pName>Gatorade</pName>
+         <cost cc="42.99" wc="45.99" sc="44.99" lc="42.99" hc="45.99"/>
+      </product>
+      <product>
+         <pName>Lakewood</pName>
+         <cost cc="75.99" wc="81.25" sc="78.88" lc="75.99" hc="81.25"/>
+      </product>
+   </group>
+    <group type="Furniture">
+   	  <product>
+         <pName>Ashford recliner</pName>
+         <cost cc="289.99" wc="270.99" sc="299.90" lc="270.99" hc="299.90"/>
+      </product>
+      <product>
+         <pName>Tufted Chair</pName>
+         <cost cc="349.99" wc="410.99" sc="300.99" lc="300.99" hc="410.99"/>
+      </product>
+      <product>
+         <pName>Albany Recliner</pName>
+         <cost cc="399.99" wc="478.99" sc="310.85" lc="310.85" hc="478.99"/>
+      </product>
+      <product>
+         <pName>Dawson Chair</pName>
+         <cost cc="199.99" wc="250.85" sc="210.25" lc="210.25" hc="250.85"/>
+      </product>
+      <product>
+         <pName>Sauder Wardrobe</pName>
+         <cost cc="128.99" wc="160.99" sc="100" lc="100" hc="160.99"/>
+      </product>
+      <product>
+         <pName>Wildon Home</pName>
+         <cost cc="35.99" wc="38.99" sc="33.99" lc="33.99" hc="38.99"/>
+      </product>
+      <product>
+         <pName>Canwood Armoire</pName>
+         <cost cc="42.99" wc="45.99" sc="44.99" lc="42.99" hc="45.99"/>
+      </product>
+      <product>
+         <pName>Bestor</pName>
+         <cost cc="75.99" wc="81.25" sc="78.88" lc="75.99" hc="81.25"/>
+      </product>
+   </group>
+
+    <group type="Electronics">
+   	  <product>
+         <pName>Nikon D5100</pName>
+         <cost cc="1119.99" wc="1250.99" sc="1056.99" lc="1056.99" hc="1250.99"/>
+      </product>
+      <product>
+         <pName>Canon EOS</pName>
+         <cost cc="966.99" wc="1150.56" sc="950.99" lc="950.99" hc="1150.56"/>
+      </product>
+      <product>
+         <pName>Sony S2100</pName>
+         <cost cc="720.99" wc="800.99" sc="710.99" lc="710.99" hc="800.99"/>
+      </product>
+      <product>
+         <pName>Fuji T200</pName>
+         <cost cc="555.99" wc="598.85" sc="512.25" lc="512.25" hc="598.85" />
+      </product>
+      <product>
+         <pName>Toshiba DR430</pName>
+         <cost cc="263.99" wc="280.99" sc="271" lc="263.99" hc="280.99"/>
+      </product>
+      <product>
+         <pName>Sony S222</pName>
+         <cost cc="350.99" wc="380.99" sc="330.99" lc="330.99" hc="380.99"/>
+      </product>
+      <product>
+         <pName>Vizio</pName>
+         <cost cc="642.99" wc="695.99" sc="639.99" lc="639.99" hc="695.99"/>
+      </product>
+      <product>
+         <pName>LG Bp220</pName>
+         <cost cc="750.99" wc="800.25" sc="749.00" lc="749.00" hc="800.25"/>
+      </product>
+   </group>
+
+    <group type="Sports and Fitness">
+   	  <product>
+         <pName>Nautilus</pName>
+         <cost cc="1119.99" wc="1250.99" sc="1120.99" lc="1119.99" hc="1250.99"/>
+      </product>
+      <product>
+         <pName>Schwin</pName>
+         <cost cc="1766.99" wc="1877.56" sc="1799.99" lc="1766.99" hc="1877.56"/>
+      </product>
+      <product>
+         <pName>Proform 510E</pName>
+         <cost cc="549.99" wc="504.99" sc="554.85" lc="504.99" hc="554.85"/>
+      </product>
+      <product>
+         <pName>Yukon 999</pName>
+         <cost cc="565.99" wc="598.85" sc="520.25" lc="520.25" hc="598.85"/>
+      </product>
+      <product>
+         <pName>Weslo G40</pName>
+         <cost cc="233.99" wc="280.99" sc="221.99" lc="221.99" hc="280.99"/>
+      </product>
+      <product>
+         <pName>Epic TL2200</pName>
+         <cost cc="305.99" wc="318.99" sc="303.99" lc="303.99" hc="318.99" />
+      </product>
+      <product>
+         <pName>Proform 795</pName>
+         <cost cc="420.99" wc="450.99" sc="410.99" lc="410.99" hc="450.99" />
+      </product>
+      <product>
+         <pName>Nautilus T514</pName>
+         <cost cc="375.99" wc="381.25" sc="385.99" lc="375.99" hc="385.99"/>
+      </product>
+   </group>
+    <group type="Pharmacy">
+   	  <product>
+         <pName>Equate Mutlivitamin</pName>
+         <cost cc="19.99" wc="21.99" sc="15.25" lc="15.25" hc="21.99"/>
+      </product>
+      <product>
+         <pName>Centrum Silver</pName>
+         <cost cc="26.99" wc="27.56" sc="27.12" lc="26.99" hc="27.56"/>
+      </product>
+      <product>
+         <pName>Naturemade C-vitamin</pName>
+         <cost cc="24.99" wc="24.98" sc="25.85" lc="24.98" hc="25.85"/>
+      </product>
+      <product>
+         <pName>Natrol Vitamin-B</pName>
+         <cost cc="85.99" wc="92.85" sc="95.25" lc="85.99" hc="95.25"/>
+      </product>
+      <product>
+         <pName>Advil cold caplets</pName>
+         <cost cc="23.99" wc="28.99" sc="29.56" lc="23.99" hc="29.56"/>
+      </product>
+      <product>
+         <pName>Afrin</pName>
+         <cost cc="35.99" wc="38.99" sc="33.99" lc="33.99" hc="38.99"/>
+      </product>
+      
+      <product>
+         <pName>Bayer aspirin</pName>
+         <cost cc="42.99" wc="45.99" sc="44.99" lc="42.99" hc="44.99"/>
+      </product>
+      <product>
+         <pName>Tylenol PM</pName>
+         <cost cc="15.99" wc="18.25" sc="16.80" lc="15.99" hc="18.25"/>
+      </product>
+      </group>
+</catalog>

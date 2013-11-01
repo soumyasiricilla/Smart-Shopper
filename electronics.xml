@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="catalogxslt.xsl"?> 
+<!--
+   Smart shopping project  
+   
+   Filename:         electronics.xml
+   Supporting Files: home.xml,catalogcss.css, logoo.jpg.
+
+-->
+
+<catalog>
+	 <group type="Electronics">
+   	  <product>
+         <pName>Nikon D5100</pName>
+         <cost cc="1119.99" wc="1250.99" sc="1056.99" lc="1056.99" hc="1250.99"/>
+      </product>
+      <product>
+         <pName>Canon EOS</pName>
+         <cost cc="966.99" wc="1150.56" sc="950.99" lc="950.99" hc="1150.56"/>
+      </product>
+      <product>
+         <pName>Sony S2100</pName>
+         <cost cc="720.99" wc="800.99" sc="710.99" lc="710.99" hc="800.99"/>
+      </product>
+      <product>
+         <pName>Fuji T200</pName>
+         <cost cc="555.99" wc="598.85" sc="512.25" lc="512.25" hc="598.85" />
+      </product>
+      <product>
+         <pName>Toshiba DR430</pName>
+         <cost cc="263.99" wc="280.99" sc="271" lc="263.99" hc="280.99"/>
+      </product>
+      <product>
+         <pName>Sony S222</pName>
+         <cost cc="350.99" wc="380.99" sc="330.99" lc="330.99" hc="380.99"/>
+      </product>
+      <product>
+         <pName>Vizio</pName>
+         <cost cc="642.99" wc="695.99" sc="639.99" lc="639.99" hc="695.99"/>
+      </product>
+      <product>
+         <pName>LG Bp220</pName>
+         <cost cc="750.99" wc="800.25" sc="749.00" lc="749.00" hc="800.25"/>
+      </product>
+   </group>
+</catalog>

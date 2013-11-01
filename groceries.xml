@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="catalogxslt.xsl"?> 
+<!--
+  Smart shopping project   
+
+   Filename:         groceries.xml
+   Supporting Files: home.xml,catalogcss.css, logoo.jpg.
+
+-->
+
+<catalog>
+   <group type="Groceries">
+   	  <product>
+         <pName>Quaker Oats</pName>
+         <cost cc="19.99" wc="21.99" sc="19.90" lc="19.90" hc="21.99"/>
+      </product>
+      <product>
+         <pName>Kellog's Bar</pName>
+         <cost cc="16.99" wc="17.56" sc="17.50" lc="16.99" hc="17.56" />
+      </product>
+      <product>
+         <pName>Cheerios cereals</pName>
+         <cost cc="14.99" wc="15.69" sc="15.99" lc="14.99" hc="15.99" />
+      </product>
+      <product>
+         <pName>Kashi Straberry cereals</pName>
+         <cost cc="15.99" wc="15.85" sc="15.25" lc="15.25" hc="15.99" />
+      </product>
+      <product>
+         <pName>Lipton Tea</pName>
+         <cost cc="23.99" wc="28.99" sc="24.99" lc="23.99" hc="28.99"/>
+      </product>
+      <product>
+         <pName>Tazo Gen</pName>
+         <cost cc="35.99" wc="38.99" sc="33.99" lc="33.99" hc="38.99"/>
+      </product>
+      <product>
+         <pName>Gatorade</pName>
+         <cost cc="42.99" wc="45.99" sc="44.99" lc="42.99" hc="45.99"/>
+      </product>
+      <product>
+         <pName>Lakewood</pName>
+         <cost cc="75.99" wc="81.25" sc="78.88" lc="75.99" hc="81.25"/>
+      </product>
+   </group>
+</catalog>

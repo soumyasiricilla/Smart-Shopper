@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="catalogxslt.xsl"?> 
+<!--
+ Smart shopping project  
+
+   Filename:         catalog.xml
+   Supporting Files: items.xsl
+
+-->
+
+<catalog>
+   <group type="Furniture">
+   	  <product>
+         <pName>Ashford recliner</pName>
+         <cost cc="289.99" wc="270.99" sc="299.90" lc="270.99" hc="299.90"/>
+      </product>
+      <product>
+         <pName>Tufted Chair</pName>
+         <cost cc="349.99" wc="410.99" sc="300.99" lc="300.99" hc="410.99"/>
+      </product>
+      <product>
+         <pName>Albany Recliner</pName>
+         <cost cc="399.99" wc="478.99" sc="310.85" lc="310.85" hc="478.99"/>
+      </product>
+      <product>
+         <pName>Dawson Chair</pName>
+         <cost cc="199.99" wc="250.85" sc="210.25" lc="210.25" hc="250.85"/>
+      </product>
+      <product>
+         <pName>Sauder Wardrobe</pName>
+         <cost cc="128.99" wc="160.99" sc="100" lc="100" hc="160.99"/>
+      </product>
+      <product>
+         <pName>Wildon Home</pName>
+         <cost cc="35.99" wc="38.99" sc="33.99" lc="33.99" hc="38.99"/>
+      </product>
+      <product>
+         <pName>Canwood Armoire</pName>
+         <cost cc="42.99" wc="45.99" sc="44.99" lc="42.99" hc="45.99"/>
+      </product>
+      <product>
+         <pName>Bestor</pName>
+         <cost cc="75.99" wc="81.25" sc="78.88" lc="75.99" hc="81.25"/>
+      </product>
+   </group>
+</catalog>
